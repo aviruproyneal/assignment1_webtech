@@ -1,0 +1,235 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0d0d12;
+    color: #f9fafb;
+    line-height: 1.7;
+}
+
+.highlight {
+    background-color: #1e3a8a;
+    color: #f9fafb;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+#main_heading {
+    font-size: 4rem;
+    margin: 10px;
+}
+
+.profile_pic {
+    width: 400px;
+    border: 4px solid white;
+    border-radius: 150px;
+    padding: 6px;
+}
+
+
+.box_title {
+    font-size: 1.2em;
+    color: #60a5fa;
+    margin-bottom: 10px;
+}
+
+.float_box {
+    padding: 20px;
+    width: 45%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+
+.nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+    background-color: #15151c;
+}
+
+.logo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #60a5fa;
+}
+
+.nav_links { 
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.nav_links a {
+    color: #d1d5db;
+    text-decoration: none;
+
+}
+
+.nav_links a:hover {
+    color: #60a5fa;
+    transition: 0.5s;
+}
+
+
+
+.header {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('website_img/AvirupRoy_Image.jpeg') center / cover;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center; 
+}
+
+.greeting {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 0.9rem;
+}
+
+
+
+.main {
+    margin: 40px auto;
+    padding: 60px 70px;
+    background-color: #1a1a22;
+    border-radius: 15px;
+}
+
+.section_title {
+    font-size: 1.7rem;
+    margin: 45px 0 18px;
+    border-bottom: 2px solid #60a5fa;
+}
+
+.profile_pic_left {
+    float: left; 
+    margin: 0 35px 20px 0; 
+}
+
+.about_text {
+    font-size: 1.15rem;
+    line-height: 2;
+    color: #c9cdd6;
+}
+
+a {
+    color: #60a5fa;
+}
+
+
+
+ol, ul {
+    padding-left: 25px;
+}
+
+table {
+    width: 100%;
+    color: #d1d5db;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #3f3f4d;
+}
+
+th {
+    background-color: #25252e;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%; 
+    padding: 10px 14px;
+    margin-top: 5px;
+    border: 1px solid #3a3a45;
+    border-radius: 8px;
+    background-color: #25252e;
+    color: #e5e7eb;
+    font-size: 1rem;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 30px;
+    background-color: #60a5fa;
+    color: #0d0d12;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3b82f6;
+}
+
+
+
+.box {
+    position: relative;
+    background-color: #3f3f4d;
+    padding: 25px;
+    font-size: 16px;
+}
+
+.all_box {
+    padding: 10px 15px;
+    margin: 8px 0;
+    color: white;
+    width: 130px;
+}
+
+.static_box   {
+    position: static;
+    background-color: #6b7280;
+}
+
+.relative_box {
+    position: relative;
+    left: 40px;
+    background-color: #3b82f6;
+}
+
+.absolute_box {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    background-color: #ef4444;
+}
+
+
+
+.float_left  {
+    float: left; 
+    background-color: #3b82f6;
+}
+
+.float_right {
+    float: right;
+    background-color: #8b5cf6; }
+
+.clear_fix {
+    clear: both;
+}
+
+
+.footer {
+    background-color: #050507;
+    color: #9ca3af;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+}
