@@ -18,7 +18,7 @@ I set up the base HTML file with `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>
 
 **Screenshot:**
 
-![111](screenshots/image-45.png)
+![111](screenshots/img11.png)
 
 ### Step 1: Headings and Paragraph
 
@@ -105,6 +105,8 @@ I created a contact form with text inputs for name, email input, color and a sub
 **Screenshot:**
 ![24](screenshots/image-24.png)
 ![25](screenshots/image-25.png)
+![25](screenshots/img22.png)
+
 
 ### Steps 13–14: Selectors, Classes vs IDs
 
