@@ -6,7 +6,7 @@
 
 **Course:** Web Technologies 1
 
-**Live Site:** [link]
+**Live Site:** [https://aviruproyneal.github.io/assignment1_webtech/]
 
 ---
 
