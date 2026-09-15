@@ -1,8 +1,11 @@
 # Assignment 1
 
 **Name:** Avirup Roy
+
 **Group:** IT-2513
+
 **Course:** Web Technologies 1
+
 **Live Site:** [link]
 
 ---
