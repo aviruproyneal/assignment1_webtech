@@ -1,4 +1,4 @@
-# Assignment #1 — HTML & CSS Basics
+# Assignment 1
 
 **Name:** Avirup Roy
 **Group:** IT-2513
